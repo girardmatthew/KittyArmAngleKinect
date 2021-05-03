@@ -1,8 +1,8 @@
-# Kitty Speech Body Tracking with Microsoft Simple 3d Viewer Sample
+# Kitty Azure Speech Recognition and Body Tracking Using Microsoft Simple 3d Viewer Sample
 
 ## Introduction
 
-The Kitty Speech Body Tracking with Microsoft Simple 3d Viewer creates a 3d window using Azure Body Tracking SDK that takes vocal commands to determine which body parts to visualize and tracks all the information.
+The Kitty Speech Body Tracking with Microsoft Simple 3d Viewer creates a 3d window using Azure Body Tracking SDK that takes vocal commands using azure Speech recognition to determine which body parts to visualize and tracks all the information.
 
 ## Usage Info
 
