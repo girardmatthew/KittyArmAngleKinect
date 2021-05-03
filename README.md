@@ -1,9 +1,8 @@
-# Azure Kinect Body Tracking Simple3dViewer Sample
+# Kitty Speech Body Tracking with Microsoft Simple 3d Viewer Sample
 
 ## Introduction
 
-The Azure Kinect Body Tracking Simple3dViewer sample creates a 3d window that visualizes all the information provided
-by the body tracking SDK.
+The Kitty Speech Body Tracking with Microsoft Simple 3d Viewer creates a 3d window using Azure Body Tracking SDK that takes vocal commands to determine which body parts to visualize and tracks all the information.
 
 ## Usage Info
 
@@ -23,6 +22,14 @@ e.g.   simple_3d_viewer.exe WFOV_BINNED CPU
 ```
 
 ## Instruction
+Give vocal command "Hello Kitty!" to wake up from sleep
+
+### Vocal Commands:
+* track arm::  Kitty starts tracking arm (returns arm angle in command window)
+* track hand:  Kitty starts tracking hand
+* track face:  Kitty starts tracking face
+* track body:  Kitty starts tracking body
+* go back to sleep:  Kitty goes to sleep
 
 ### Basic Navigation:
 * Rotate: Rotate the camera by moving the mouse while holding mouse left button
